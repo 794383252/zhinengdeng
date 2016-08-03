@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="device_create_spinner">
+        <item>智能灯泡</item>
+        <item>智能风扇</item>
+        <item>智能开关</item>
+        <item>智能窗帘</item>
+        <item>智能插座</item>
+        <item>智能门锁</item>
+        <item>红外感应</item>
+        <item>烟雾感应</item>
+    </string-array>
+
+    <string-array name="connector_create_spinner">
+        <item>Vip1</item>
+        <item>Vip2</item>
+        <item>Vip3</item>
+
+    </string-array>
+
+</resources>
